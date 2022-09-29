@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonaldPires1980
 - 👀 I’m full analist QA
-- 🌱 I’m currently learning english
+- 🌱 I’m currently learning english 
 - 💞️ I’m learning and working with 
 - Cypress/Javascript
 - Selenium/Java-C#
