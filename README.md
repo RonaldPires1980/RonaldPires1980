@@ -5,6 +5,7 @@
 - Cypress/Javascript
 - Selenium/Java-C#
 - MSTest/C#
+- Cucmber/Ruby
 - 📫 Como me encontrar:
 - https://www.linkedin.com/in/ronald-santos-5289277a/
 - ronald.rone123@gmail.com
